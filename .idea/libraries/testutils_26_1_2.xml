@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="testutils-26.1.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/testutils/26.1.2/f3c762f8b097c33511d5dd314d5d2bbfa98204e3/testutils-26.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/testutils/26.1.2/d3152cb2f0a9e7c643e115b8acd7b7dc654f6bc3/testutils-26.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
